@@ -26,6 +26,7 @@ SECRET_KEY = 'md1w9!&hu2*9p!7)e1)0&-7%n!kaabxcla97+38e@-t&f+(dik'
 DEBUG = True
 
 ALLOWED_HOSTS = ['apiitesting.herokuapp.com']
+# ALLOWED_HOSTS = []
 
 
 # Application definition
