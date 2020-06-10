@@ -25,8 +25,8 @@ SECRET_KEY = 'md1w9!&hu2*9p!7)e1)0&-7%n!kaabxcla97+38e@-t&f+(dik'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['apiitesting.herokuapp.com']
-# ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = ['apiitesting.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'user',
+    'uzer',
     'rest_framework'
 ]
 
