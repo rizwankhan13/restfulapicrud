@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class EmployeeapiConfig(AppConfig):
+class UzerapiConfig(AppConfig):
     name = 'uzer'

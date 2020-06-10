@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'uzer.apps.EmployeeapiConfig',
+    'uzer.apps.UzerapiConfig',
     'rest_framework'
 ]
 
